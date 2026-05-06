@@ -19,4 +19,4 @@ This is a modern AI-powered web application designed to help professionals autom
 AI-generated content may require human review.
 
 ## Author
-Your Name
+Annah Gaula Manda
